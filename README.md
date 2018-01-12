@@ -1,4 +1,4 @@
-# Hello World
-This is the test repository!
+# Bonjour le Monde
+Bonjour! Bonjour!
 
-I've never used github before and this hello-world tutorial makes things slightly less mystifying.
+Réellement, je ne sais pas le français.
